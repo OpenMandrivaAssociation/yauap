@@ -1,6 +1,6 @@
 Name:           yauap
 Summary:        Commandline Audio Player
-Version:        0.2.3
+Version:        0.2.4
 Release:        %mkrel 1
 Url:            http://www.nongnu.org/yauap/
 License:        LGPL v2+
@@ -12,7 +12,7 @@ Requires:       gstreamer0.10-plugins-base
 Requires:       gstreamer0.10-plugins-good
 Requires:       dbus-x11
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
-Source0:        %{name}-%{version}.tar.gz
+Source0:        http://mirrors.zerg.biz/nongnu/yauap/%{name}-%{version}.tar.gz
 
 
 %description
