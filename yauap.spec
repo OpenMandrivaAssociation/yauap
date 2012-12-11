@@ -40,3 +40,27 @@ export CFLAGS="$RPM_OPT_FLAGS -fno-strict-aliasing"
 %{__rm} -rf "%{buildroot}"
 
 
+
+
+%changelog
+* Sun Sep 20 2009 Frederik Himpe <fhimpe@mandriva.org> 0.2.4-1mdv2010.0
++ Revision: 444884
+- Update to new version 0.2.4
+
+* Fri Jan 23 2009 Jérôme Soyer <saispo@mandriva.org> 0.2.3-1mdv2009.1
++ Revision: 332958
+- New upstream release
+
+* Mon Aug 04 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.2.2-4mdv2009.0
++ Revision: 262788
+- rebuild
+
+* Thu Jul 31 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.2.2-3mdv2009.0
++ Revision: 257933
+- rebuild
+
+* Tue Mar 18 2008 Nicolas Lécureuil <neoclust@mandriva.org> 0.2.2-1mdv2008.1
++ Revision: 188683
+- import yauap
+
+
