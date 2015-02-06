@@ -1,7 +1,7 @@
 Name:           yauap
 Summary:        Commandline Audio Player
 Version:        0.2.4
-Release:        %mkrel 1
+Release:        2
 Url:            http://www.nongnu.org/yauap/
 License:        LGPL v2+
 Group:          Sound
