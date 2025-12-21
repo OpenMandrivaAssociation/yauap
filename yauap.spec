@@ -5,6 +5,7 @@ Release:        2
 Url:            https://www.nongnu.org/yauap/
 License:        LGPL v2+
 Group:          Sound
+BuildRequires:	make
 BuildRequires:  dbus-glib-devel
 BuildRequires:  libgstreamer-plugins-base-devel
 Requires:       libgstreamer0.10
